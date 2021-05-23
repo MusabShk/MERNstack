@@ -2,7 +2,7 @@
 
 This project is build using MERN Stack (MongoDB,Express,React,Nodejs)
 
-This project has two types of users:
+This project has :
 1. User
 2. Admin 
 
