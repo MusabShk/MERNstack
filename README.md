@@ -41,7 +41,7 @@ User can remove items from cart if needed
 
 
 ### Mobile responsive
-
+<p align="center">
 ![](app-screenshots/4.png)
-
+</p>
 
