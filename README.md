@@ -23,7 +23,10 @@ d) Managing categories <br />
 e) Managing orders placed by his customers: updating the order status, clearing up placed orders etc..<br />
 
 This projects was build for businesses which require a quick solution for moving their venture online and also for people who need such open soure projects <br />
-Successfully hosted : https://ibrahimstore.herokuapp.com/  <br />
+
+### App Home page where products are listed
+
+![](app-screenshots/1.png)
 
 
 
