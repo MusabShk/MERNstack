@@ -28,14 +28,17 @@ This projects was build for businesses which require a quick solution for moving
 
 ![](app-screenshots/1.png)
 
+
 ### Signup page for the user to create an account
 
 ![](app-screenshots/2.png)
+
 
 ### Cart page where user can view items which were added to cart
 User can remove items from cart if needed
 
 ![](app-screenshots/3.png)
+
 
 ### Mobile responsive
 
