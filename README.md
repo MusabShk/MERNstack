@@ -9,7 +9,7 @@ This project has :
 Each of them have different roles to play 
 1. User:<br />
 This is the person who will have access to the website from the frontend and will have all the functionalities like :<br />
-a) Creating a user account by logging in <br />
+a) Creating a user account by signing up <br />
 b) Can view products which are listed onto the website (without login)<br />
 c) Place an order for a particular product<br />
 d) Track the order which was placed <br />
