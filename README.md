@@ -29,7 +29,7 @@ This projects was build for businesses which require a quick solution for moving
 ![](app-screenshots/1.png)
 
 
-### Signup page for the user to create an account
+### Signup page for a new user
 
 ![](app-screenshots/2.png)
 
